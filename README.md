@@ -29,3 +29,4 @@ The Currency Converter API has two main endpoints:
     - `from`: The base currency code (e.g., "USD").
     - `to`: The target currency code (e.g., "EUR").
 
+# FINISHED IN CLASS - SPUR PRIZE PLS 😁
