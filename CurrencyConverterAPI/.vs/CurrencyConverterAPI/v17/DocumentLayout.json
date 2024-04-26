@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leigh\\OneDrive\\VS CODE\\CurrencyConverterAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{876F6E4E-C1FA-4028-A2B9-269B48CDB3A5}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|c:\\users\\leigh\\onedrive\\vs code\\currencyconverterapi\\currencyconverterapi\\models\\currencyquotelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876F6E4E-C1FA-4028-A2B9-269B48CDB3A5}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\models\\currencyquotelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876F6E4E-C1FA-4028-A2B9-269B48CDB3A5}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|c:\\users\\leigh\\onedrive\\vs code\\currencyconverterapi\\currencyconverterapi\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876F6E4E-C1FA-4028-A2B9-269B48CDB3A5}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876F6E4E-C1FA-4028-A2B9-269B48CDB3A5}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|c:\\users\\leigh\\onedrive\\vs code\\currencyconverterapi\\currencyconverterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876F6E4E-C1FA-4028-A2B9-269B48CDB3A5}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyQuoteList.cs",
+              "DocumentMoniker": "C:\\Users\\leigh\\OneDrive\\VS CODE\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\CurrencyQuoteList.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Models\\CurrencyQuoteList.cs",
+              "ToolTip": "C:\\Users\\leigh\\OneDrive\\VS CODE\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\CurrencyQuoteList.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Models\\CurrencyQuoteList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:00:51.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\leigh\\OneDrive\\VS CODE\\CurrencyConverterAPI\\CurrencyConverterAPI\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\leigh\\OneDrive\\VS CODE\\CurrencyConverterAPI\\CurrencyConverterAPI\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Controllers\\CurrencyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:59:32.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leigh\\OneDrive\\VS CODE\\CurrencyConverterAPI\\CurrencyConverterAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\leigh\\OneDrive\\VS CODE\\CurrencyConverterAPI\\CurrencyConverterAPI\\Program.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:56:34.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
